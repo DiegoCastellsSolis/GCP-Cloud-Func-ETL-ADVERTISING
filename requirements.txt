@@ -1,0 +1,9 @@
+# Function dependencies, for example:
+# package>=version
+google-cloud-storage
+psycopg2
+pandas
+pycountry
+unidecode
+google-cloud-secret-manager
+lxml
