@@ -127,10 +127,10 @@ order by 1, 3
 
 
 conn = psycopg2.connect(
-    host="104.199.38.127",
+    host="125.156.33.164",
     database="main",
-    user="bi_only_read",
-    password="f*BzeK]Jgre~8hx.Y9J[3##-/;"
+    user="bi_only_write",
+    password="f*BsrfhfJ[3##-/;"
 )
 
 def excec_query(country,consulta,aux_columns):
